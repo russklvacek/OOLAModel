@@ -1,0 +1,22 @@
+620
+6
+LSI Model
+[(0, '0.570*"learn" + 0.428*"student" + 0.229*"use" + 0.215*"analyt" + 0.209*"data" + 0.137*"model" + 0.116*"cours" + 0.110*"educ" + 0.101*"research" + 0.099*"studi" + 0.095*"paper" + 0.091*"design" + 0.085*"learner" + 0.083*"system" + 0.081*"base"'), (1, '0.654*"student" + -0.534*"learn" + -0.299*"analyt" + 0.177*"cours" + 0.153*"model" + 0.113*"use" + 0.109*"predict" + 0.093*"perform" + -0.086*"research" + -0.084*"learner" + -0.066*"social" + 0.061*"grade" + 0.052*"result" + -0.045*"commun" + -0.045*"field"'), (2, '-0.538*"data" + 0.399*"learn" + 0.369*"student" + -0.200*"use" + -0.155*"analysi" + -0.140*"visual" + -0.138*"model" + -0.137*"mooc" + -0.131*"learner" + -0.100*"educ" + -0.090*"discuss" + -0.083*"user" + -0.083*"set" + -0.081*"base" + -0.077*"tool"'), (3, '-0.412*"data" + -0.340*"analyt" + 0.271*"learner" + 0.268*"cours" + 0.264*"model" + -0.238*"student" + 0.219*"social" + 0.165*"network" + -0.159*"educ" + 0.158*"mooc" + 0.144*"learn" + 0.127*"content" + -0.105*"research" + 0.100*"perform" + 0.099*"base"'), (4, '-0.647*"model" + 0.423*"cours" + -0.178*"predict" + 0.164*"mooc" + -0.153*"analyt" + -0.150*"use" + 0.125*"onlin" + 0.123*"learner" + -0.107*"knowledg" + 0.107*"data" + 0.106*"studi" + -0.085*"base" + 0.085*"activ" + -0.079*"featur" + 0.079*"engag"'), (5, '0.380*"cours" + -0.302*"use" + -0.257*"visual" + -0.239*"teacher" + 0.233*"model" + 0.227*"data" + -0.201*"tool" + 0.176*"predict" + 0.173*"analyt" + 0.163*"mooc" + 0.148*"educ" + -0.145*"support" + -0.141*"design" + -0.127*"modul" + 0.121*"research"')]
+
+ LDA Model
+0.029*"learn" + 0.015*"use" + 0.012*"student" + 0.010*"analyt" + 0.008*"educ" + 0.008*"studi" + 0.007*"mooc" + 0.006*"data" + 0.006*"cours" + 0.006*"paper"
+0.028*"student" + 0.020*"learn" + 0.015*"data" + 0.011*"educ" + 0.011*"use" + 0.011*"studi" + 0.008*"research" + 0.006*"learner" + 0.006*"system" + 0.006*"inform"
+0.025*"learn" + 0.022*"student" + 0.013*"analyt" + 0.012*"use" + 0.011*"data" + 0.009*"model" + 0.008*"differ" + 0.008*"educ" + 0.007*"predict" + 0.007*"learner"
+0.028*"learn" + 0.027*"student" + 0.016*"model" + 0.015*"use" + 0.013*"data" + 0.012*"cours" + 0.009*"analyt" + 0.008*"analysi" + 0.007*"predict" + 0.007*"learner"
+0.034*"student" + 0.029*"learn" + 0.017*"use" + 0.011*"analyt" + 0.009*"data" + 0.008*"cours" + 0.008*"paper" + 0.007*"base" + 0.007*"model" + 0.006*"perform"
+620
+0
+LSI Model
+620
+3
+LSI Model
+[(0, '0.570*"learn" + 0.428*"student" + 0.229*"use" + 0.215*"analyt" + 0.209*"data" + 0.137*"model" + 0.116*"cours" + 0.110*"educ" + 0.101*"research" + 0.099*"studi" + 0.095*"paper" + 0.091*"design" + 0.085*"learner" + 0.083*"system" + 0.081*"base"'), (1, '-0.654*"student" + 0.534*"learn" + 0.299*"analyt" + -0.177*"cours" + -0.153*"model" + -0.113*"use" + -0.109*"predict" + -0.093*"perform" + 0.086*"research" + 0.084*"learner" + 0.066*"social" + -0.061*"grade" + -0.052*"result" + 0.045*"commun" + 0.045*"field"'), (2, '0.538*"data" + -0.399*"learn" + -0.369*"student" + 0.200*"use" + 0.154*"analysi" + 0.140*"visual" + 0.138*"model" + 0.137*"mooc" + 0.132*"learner" + 0.100*"educ" + 0.089*"discuss" + 0.083*"user" + 0.082*"set" + 0.081*"base" + 0.077*"tool"')]
+
+ LDA Model
+0.045*"learn" + 0.019*"student" + 0.014*"analyt" + 0.014*"data" + 0.012*"use" + 0.011*"cours" + 0.008*"studi" + 0.007*"educ" + 0.007*"system" + 0.006*"model"
+0.030*"student" + 0.021*"learn" + 0.017*"use" + 0.014*"analyt" + 0.013*"data" + 0.010*"model" + 0.008*"research" + 0.007*"educ" + 0.007*"learner" + 0.007*"paper"
